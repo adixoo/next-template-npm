@@ -5,7 +5,7 @@
 
 @theme inline {
 
-  /* remove this if needed respective template */
+  /* Remove this if needed - it helps to prevent adding unused colors to the css */
   --color-red-*:initial;
   --color-orange-*:initial;
   --color-amber-*:initial;
@@ -30,7 +30,6 @@
   --color-stone-*:initial;
 
   --container-*:initial;
-
 
   --color-background: var(--background);
   --color-foreground: var(--foreground);
